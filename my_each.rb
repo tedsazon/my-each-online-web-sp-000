@@ -6,4 +6,5 @@ def my_each(array) # put argument(s) here
       yield array[x]
       x = x + 1
     end
+  end
 end
