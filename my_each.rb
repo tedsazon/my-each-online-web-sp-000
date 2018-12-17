@@ -1,5 +1,5 @@
 def my_each(array) # put argument(s) here
-  yield
+  while yield
 end
 
 my_each(array)
